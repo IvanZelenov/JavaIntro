@@ -48,6 +48,7 @@ public class BranchTask4 {
             System.out.println("Пройдет.");
             passed = true;
         }
+        
         if (!passed) {
             System.out.println("Не пройдет.");
         }
